@@ -17,7 +17,7 @@
 Add `XTagView` in your Cartfile.
 
 ```
-github "yuro4k/XTagView" == 0.2.0
+github "uhey4k/XTagView" == 0.2.0
 ```
 
 ## Usage
